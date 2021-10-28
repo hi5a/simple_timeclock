@@ -1,26 +1,23 @@
-# README for Untitled Project #
+# README for A Simple Time Clock #
 
-This is the README file for the Untitled Project app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48754372/139181574-ec148841-1caf-4181-bdcd-f9a7bc6d72d7.png)
 
-The files in this folder contain everything you need to run your app:
 
-* `applab/applab.js` - This file contains the applab library, which has all the
-  javascript that applab uses to run your app.
+![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/48754372/139181637-ef5ebc46-b608-4b23-aefe-1145160da5a0.png)
 
-* `applab/applab.css` - This file contains some default CSS styling for your app.
 
-* `index.html` - This is the html file that you designed in applab using the
-  Design tab. It contains all the buttons, text inputs, and other controls for
-  your app. Go here to add additional controls to your app.
+![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/48754372/139181676-858cfbf7-3fe9-438b-a688-8575db30d98b.png)
 
-* `style.css` - This file defines the custom styling for each control in your
-  app that you specified under the Design tab. Go here to change the colors,
-  positions, dimensions, and other properties of your app's controls.
 
-* `code.js` - This file has all the code you wrote for your app. Go here to add
-  new behavior to your app.
 
-* `assets` - This is a directory with all the asset files (pictures and sounds)
-  that you uploaded in applab.
+
+![Webp net-resizeimage (4)](https://user-images.githubusercontent.com/48754372/139181685-982e7c31-ce15-4724-b8c0-33c2f4e46422.png)
+
+
+
+![Webp net-resizeimage (5)](https://user-images.githubusercontent.com/48754372/139181703-e92c082a-0d86-4b96-8ba5-ff7f65aa725c.png)
+
+
+
+
+![Webp net-resizeimage](https://user-images.githubusercontent.com/48754372/139181722-f8dc8b63-c04c-49d3-a1ae-6ff21ac91959.png)
