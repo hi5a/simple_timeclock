@@ -1,5 +1,8 @@
 # README for A Simple Time Clock #
+
 [![CircleCI](https://circleci.com/gh/hi5a/simple_timeclock/tree/main.svg?style=svg)](https://circleci.com/gh/hi5a/simple_timeclock/tree/main)
+
+
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/48754372/139181574-ec148841-1caf-4181-bdcd-f9a7bc6d72d7.png)
 
 
